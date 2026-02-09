@@ -7,7 +7,11 @@
 
 A professional, feature-rich Flutter application demonstrating **Clean Architecture**, **MVVM**, and advanced state management with **BLoC/Cubit**.
 
-## 📱 Visual Showcase
+## � Download APK
+
+[![Download APK](https://img.shields.io/badge/Download-APK-2480eb?style=for-the-badge&logo=android&logoColor=white)](https://www.mediafire.com/file/sb7s8k9sjdkvs12/user.apk/file)
+
+## �📱 Visual Showcase
 
 <p align="center">
   <img src="assets/images/login.png" width="200" alt="Login Screen" />
