@@ -105,4 +105,4 @@ Use these demo credentials provided by the ReqRes API:
 - **Password**: `cityslicka`
 
 ---
-**Built with ❤️ using Flutter and Clean Architecture**
+**Built with ❤️ by Mahmoud Hamza**
